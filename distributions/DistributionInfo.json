@@ -146,15 +146,15 @@
                     "Sha256": "f48a55e9fd4da1b84c2a9e960a9f3bc6e9fa65387ed9181826e1f052b2ce545e"
                 }
             }
-	],
-	"archlinux": [
+        ],
+        "archlinux": [
             {
                 "Name": "archlinux",
                 "FriendlyName": "Arch Linux",
                 "Default": true,
                 "Amd64Url": {
-                    "Url": "https://geo.mirror.pkgbuild.com/wsl/2025.04.14.124939/archlinux-2025.04.14.124939.wsl",
-                    "Sha256": "13f675407f0fa792d8561f7e7866e748899a62f39b7e7dd1f5561b27ba7d7a1a"
+                    "Url": "https://geo.mirror.pkgbuild.com/wsl/2025.04.18.125386/archlinux-2025.04.18.125386.wsl",
+                    "Sha256": "eb49be48e55becbd3839eefa53c2b8a8a152caec84b35682fb2caa6956d8e315"
                 }
             }
         ],
